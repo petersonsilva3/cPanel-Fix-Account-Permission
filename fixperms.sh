@@ -1,7 +1,5 @@
 #!/bin/bash
 # Script to fix permissions of accounts
-# Written by: Aria Jahangiri Far
-# http://ariajfar.ir
 
 if [ "$#" -lt "1" ];then
         echo "Must specify user"
